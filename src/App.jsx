@@ -166,7 +166,7 @@ function App() {
         <div className="heroContent">
           <div className="heroBadge">
             <span className="heroBadgeDot"></span>
-            Powered by Google Gemini AI
+            Powered by Groq AI
           </div>
 
           <h1 className="heroTitle">
